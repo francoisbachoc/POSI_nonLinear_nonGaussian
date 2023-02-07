@@ -1,0 +1,12 @@
+rm( list=ls() )   
+
+
+source("holm_highDim_lar_independent_normal.R")
+source("holm_highDim_lar_independent_Laplace.R")
+source("holm_highDim_lar_independent_uniform.R")
+source("holm_highDim_lar_independent_skewednormal.R")
+source("holm_highDim_lar_correlated_normal.R")
+source("holm_highDim_lar_correlated_Laplace.R")
+source("holm_highDim_lar_correlated_uniform.R")
+source("holm_highDim_lar_correlated_skewednormal.R")
+
